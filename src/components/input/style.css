@@ -1,0 +1,14 @@
+input {
+  width: 420px;
+  height: 24px;
+  font-size: 16px;
+  font-family: "Avenir Next";
+  outline: none;
+  border-width: 0px;
+}
+span {
+  display: flex;
+  text-align: flex-start;
+  font-size: 12px;
+  font-weight: 900;
+}
